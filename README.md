@@ -1,4 +1,6 @@
 # EHR
 Electrical Health Record
 <h1> Sanjana kabade</h1>
-username: sanjana
+Username: Sanjana
+Gmailname: sanjanakabade07@gmail.com
+hEALTH IS MOST IMPORTANT FOR LIFE
